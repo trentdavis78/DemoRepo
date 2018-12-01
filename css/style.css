@@ -1,0 +1,33 @@
+/* CSS File */
+body {
+  background-color: #f0f0f0;
+}
+#container {
+  background-color: #fff;
+  width: 960px;
+  margin: auto;
+  border: 1px solid #004953;
+  border-radius: 20px;
+  padding: 20px;
+}
+#container h1 {
+  margin-top: 0px;
+}
+#profilePic img {
+  width: 200px;
+}
+#profieBio {
+  max-width: 500px;
+}
+#contactInfo {
+
+}
+ a:link,
+ a:visited
+{
+  color: #004953;
+}
+
+a:hover {
+  color: #000;
+}
